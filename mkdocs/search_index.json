@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "CodeChickenLib", 
+            "text": "CodeChickenLib\n\n\nWelcome to the API documentation of CodeChickenLib.", 
             "title": "Home"
         }, 
         {
             "location": "/#codechickenlib", 
-            "text": "", 
+            "text": "Welcome to the API documentation of CodeChickenLib.", 
             "title": "CodeChickenLib"
         }
     ]
